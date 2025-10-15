@@ -5,7 +5,8 @@
  * This program measures distance using a sonar.
 */
 
-let distanceToObject:number = 0
+// variables
+let distanceToObject: number = 0
 
 // setup
 basic.clearScreen()
